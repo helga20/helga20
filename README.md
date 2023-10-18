@@ -1,6 +1,6 @@
 <h1 align='center'> I'm Olia (helga20) 👩🏼‍💻 </h1>
 <h5 align="center" style="font-size: 12px;">Student at Ivan Franko National University of Lviv</h5>
-<h7 align="center" style="font-size: 10px;">Кажуть, тут рятую людей)</h7>
+<h6 align="center" style="font-size: 10px;">Кажуть, тут рятую людей)</h6>
 
 ## 🌐 Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/oliak2003)
