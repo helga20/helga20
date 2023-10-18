@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/oliak2003)
 [![Instagram](https://img.shields.io/badge/Instagram-c20a3b?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/olia_kravets_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://www.facebook.com/oliakr2003)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/helga20)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9p9KWFzqdB)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k_oliaa) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olia-kravets-722839270)
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
