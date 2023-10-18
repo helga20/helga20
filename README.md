@@ -1,7 +1,7 @@
 <h1 align='center'> Hi 👋, I'm Olia (helga20) 👩🏼‍💻 </h1>
 <h5 align="center" style="font-size: 12px;">Student at Ivan Franko National University of Lviv</h5>
 
-## 🔗 Socials
+## 🔗 Follow me
 [![instagram](https://img.shields.io/badge/instagram-c20a3b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olia_kravets_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 [![telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/oliak2003)
 [![facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/oliakr2003)
