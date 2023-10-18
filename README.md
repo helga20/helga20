@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I'm Olia (helga20) 👩🏼‍💻 </h1>
+<h1 align='center'> I'm Olia (helga20) 👩🏼‍💻 </h1>
 <h5 align="center" style="font-size: 12px;">Student at Ivan Franko National University of Lviv</h5>
 
 ## 🔗 Follow me
