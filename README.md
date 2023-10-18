@@ -1,7 +1,7 @@
 <h1 align='center'> I'm Olia (helga20) 👩🏼‍💻 </h1>
 <h5 align="center" style="font-size: 12px;">Student at Ivan Franko National University of Lviv</h5>
 
-## 🔗 Follow me
+## 🌐 Follow me
 [![instagram](https://img.shields.io/badge/instagram-c20a3b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olia_kravets_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 [![telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](https://t.me/oliak2003)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/helga20)
@@ -11,7 +11,12 @@
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0a91c2?&style=for-the-badge&logo=Outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
 
-![](https://komarev.com/ghpvc/?username=helga20&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=helga20&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=helga20&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helga20&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔋 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1atteee&theme=vue-dark&hide_border=false)<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=helga20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
