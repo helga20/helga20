@@ -7,4 +7,4 @@
 [![facebook](https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/oliakr2003)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olia-kravets-722839270/)
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
-[![outlook](https://img.shields.io/badge/outlook-0a91c2?&style=for-the-badge&logo=outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
+[![Outlook](https://img.shields.io/badge/Outlook-0a91c2?&style=for-the-badge&logo=Outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
