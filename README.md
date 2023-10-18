@@ -4,5 +4,5 @@
 ## 🔗 Socials
 [![instargram](https://img.shields.io/badge/instargram-c20a3b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/olia_kravets_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/olia-kravets/)
-[![twitter](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
-
+[![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
+[![outlook](https://img.shields.io/badge/gmail-%0a91c2.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
