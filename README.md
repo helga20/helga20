@@ -9,4 +9,4 @@
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0a91c2?&style=for-the-badge&logo=Outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
 
-![](https://komarev.com/ghpvc/?username=helga20&style=for-the-badge)
+[![](https://visitcount.itsvg.in/api?id=helga20&icon=0&color=0)](https://visitcount.itsvg.in)
