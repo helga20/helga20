@@ -12,10 +12,10 @@
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliakravets0@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0a91c2?&style=for-the-badge&logo=Outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
 
-### Random Dev Quote
+### Random quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Dev Meme
+### Random meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
