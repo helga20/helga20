@@ -13,7 +13,7 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0a91c2?&style=for-the-badge&logo=Outlook&logoColor=white)](mailto:OLHA.KRAVETS.PMO@lnu.edu.ua)
 
 ### Random meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://memegen.link/examples/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=f1atteee&icon=0&color=0)](https://visitcount.itsvg.in)
